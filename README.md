@@ -3,6 +3,9 @@ It's dangerous to go alone! Here's a reliable `docker-compose` to help you on yo
 
 ![zelda-nyan](http://i1.kym-cdn.com/photos/images/original/000/402/521/a01.png "something something")
 
+## Forked from
+https://github.com/pagerinc/composer
+
 ## Setup
 
 Composer leverages Docker with sugar, spice and everything that's nice.
